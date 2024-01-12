@@ -1,0 +1,100 @@
+.Box{
+    background-color: gray;
+    display: flex;
+}
+.Box1{
+    height: 700px;
+    width: 780px;
+    display: flex;
+}
+#t1{
+    display: flex;
+    position: absolute;
+    left: 385px;
+    top: 235px;
+    color: blue;
+    font-size: 50px;
+}
+#t2{
+    width: 330px;
+    display: flex;
+    position: absolute;
+    left: 390px;
+    top: 300px;
+    font-size: 20px;
+}
+
+.Box2{
+    height: 700px;
+    width: 780px;
+}
+.Box3{
+    display: flex;
+    width: 300px;
+    height: 370px;
+    position: absolute;
+    top: 150px;
+    background-color: white;
+    border-radius: 10px;
+}
+#t3{
+    display: flex;
+    width: 260px;
+    height: 50px;
+    position: absolute;
+    top: 12px;
+    left: 14px;
+    border-radius: 6px;
+}
+#t4{
+    display: flex;
+    width: 260px;
+    height: 50px;
+    position: absolute;
+    top: 75px;
+    left: 14px;
+    border-radius: 6px;
+}
+#t5{
+    background-color: blue;
+    color: white;
+    display: flex;
+    width: 270px;
+    height: 50px;
+    position: absolute;
+    top: 155px;
+    left: 14px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+}
+#t6{
+    color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 270px;
+    height: 50px;
+    position: absolute;
+    top: 220px;
+    left: 14px;
+    border-radius: 6px;
+}
+#t7{
+    background-color: green;
+    color: yellow;
+    display: flex;
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    top: 280px;
+    left: 85px;
+    border-radius: 6px;
+}
+#t8{
+    font-size: 14px;
+    display: flex;
+    position: absolute;
+    bottom: 160px;
+    right: 465px;
+}
